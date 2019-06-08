@@ -1,0 +1,30 @@
+theme: hugo-flex
+title: shanscendent
+#baseURL: https://shanscendent.com/
+languageCode: "en-us"
+copyright: "© 2019 Shan Lee, <a href=\"https://gohugo.io/\">built with hugo</a>."
+
+params:
+  color: SteelBlue  # Any color in CSS syntax
+  width: 42rem  # Any length in CSS syntax
+  rss: To subscribe to this RSS feed, copy its address and paste it into your
+    favorite feed reader.
+  footer: "© 2019 Shan Lee, <a href=\"https://gohugo.io/\">built with hugo</a>."
+
+menu:
+  nav:
+  - name: Posts
+    url: posts/
+    weight: 1
+  - name: Projects
+    url: projects/
+    weight: 2
+  - name: Pages
+    url: pages/
+    weight: 3
+  - name: Art
+    url: art/
+    weight: 4
+  - name: About
+    url: about/
+    weight: 5
