@@ -1,6 +1,6 @@
 theme: hugo-flex
 title: shanscendent
-#baseURL: https://shanscendent.com/
+baseURL: https://shanscendent.com/
 languageCode: "en-us"
 copyright: "© 2019 Shan Lee, <a href=\"https://gohugo.io/\">built with hugo</a>."
 
